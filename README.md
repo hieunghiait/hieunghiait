@@ -5,7 +5,6 @@
 - ✍ I'm a student of: [Ho Chi Minh City University of Technology](https://hutech.edu.vn) (HUTECH).
 - 🌱 I’m currently learning Front-end Developer.
 - ❤ Contact me: lehieunghia2402@icloud.com.
-- 
 <div align="center">
   <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>

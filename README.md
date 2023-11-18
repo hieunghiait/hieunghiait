@@ -3,4 +3,4 @@
 - ✍I'm a student of: [Ho Chi Minh City University of Technology](https://hutech.edu.vn) (HUTECH).
 - 🌱I’m currently learning Fullstack web.
 - ❤ Contact me: lehieunghia2402@gmail.com
-- 📍Address: Domitory of VNU (Vietnam National Univeristy)
+- 📍Address: Bien Hoa City, Dong Nai Province
